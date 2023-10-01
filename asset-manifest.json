@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/portfolioByReact/static/css/main.cf727b2b.css",
+    "main.js": "/portfolioByReact/static/js/main.f7d890a5.js",
+    "static/js/496.98c5a49f.chunk.js": "/portfolioByReact/static/js/496.98c5a49f.chunk.js",
+    "static/media/Annotation 2023-09-27 002454.png": "/portfolioByReact/static/media/Annotation 2023-09-27 002454.a55f83193389d4fc9852.png",
+    "static/media/proj2.png": "/portfolioByReact/static/media/proj2.7f0725a176103290a477.png",
+    "static/media/Annotation 2023-09-27 015304.png": "/portfolioByReact/static/media/Annotation 2023-09-27 015304.c0ad58e1fcfeb1bfcac2.png",
+    "static/media/Annotation 2023-09-26 002201.png": "/portfolioByReact/static/media/Annotation 2023-09-26 002201.266c17fbe39b37e77d68.png",
+    "static/media/banner.png": "/portfolioByReact/static/media/banner.cc1273af450504afe755.png",
+    "static/media/header-img.svg": "/portfolioByReact/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
+    "static/media/revicons.eot": "/portfolioByReact/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/portfolioByReact/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/portfolioByReact/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/meter2.svg": "/portfolioByReact/static/media/meter2.1b8f416eccd1ee162218b8528a1c5cdc.svg",
+    "static/media/meter1.svg": "/portfolioByReact/static/media/meter1.c4085ff859afbd8488e9da47d4953850.svg",
+    "static/media/meter3.svg": "/portfolioByReact/static/media/meter3.2201f7e4df22bc4b08180210474f28cc.svg",
+    "index.html": "/portfolioByReact/index.html",
+    "main.cf727b2b.css.map": "/portfolioByReact/static/css/main.cf727b2b.css.map",
+    "main.f7d890a5.js.map": "/portfolioByReact/static/js/main.f7d890a5.js.map",
+    "496.98c5a49f.chunk.js.map": "/portfolioByReact/static/js/496.98c5a49f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf727b2b.css",
+    "static/js/main.f7d890a5.js"
+  ]
+}
